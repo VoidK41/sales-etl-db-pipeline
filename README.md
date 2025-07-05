@@ -70,3 +70,12 @@ python etl/main.py
 
 Built using **Python 3, Pandas, SQLAlchemy** — modular and production-ready.  
 Feel free to contact me for enhancements or to integrate this ETL with dashboards!
+
+---
+
+## 👨‍💻 Author
+
+**Khairu Ikramendra**  
+Available for freelance dashboard & data analytics projects.  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/khairuikramendra/)  
+Or explore more on [Upwork](https://www.upwork.com/freelancers/~017002e8546494c6e9?mp_source=share)
