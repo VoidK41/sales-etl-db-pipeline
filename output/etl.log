@@ -1,0 +1,11 @@
+2025-07-05 15:35:43,787 INFO: Loading data from files: ['data/sales_jan.csv', 'data/sales_feb.csv', 'data/sales_mar.csv']
+2025-07-05 15:35:43,792 INFO: Data loaded with 134 rows
+2025-07-05 15:35:43,793 INFO: Cleaning data
+2025-07-05 15:35:43,795 INFO: Data cleaned; remaining rows: 102
+2025-07-05 15:35:43,795 INFO: Saving data to DB: output/sales_data.db
+2025-07-05 15:35:43,831 INFO: Index created on Product column
+2025-07-05 15:35:43,831 INFO: Fetching summary into Pandas DataFrame
+2025-07-05 15:35:43,837 INFO: Summary saved to output/sales_summary_v2.csv
+2025-07-05 15:35:43,837 INFO: Querying summary from DB
+2025-07-05 15:35:43,838 INFO: Exporting summary to CSV
+2025-07-05 15:35:43,840 INFO: Summary exported to output/sales_summary.csv

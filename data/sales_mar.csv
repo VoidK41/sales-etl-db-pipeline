@@ -1,0 +1,44 @@
+Product,Region,Sales,Date
+A,Jakarta,1250,2025-03-02
+B,Bandung,3500,2025-03-05
+C,Surabaya,2300,2025-03-08
+D,Jakarta,one thousand six hundred,2025-03-10
+E,Bandung,2850,2025-03-13
+A,Surabaya,3150,2025-03-16
+B,Jakarta,,2025-03-18
+C,Bandung,2600,2025-03-20
+D,Surabaya,3350,2025-03-23
+E,Jakarta,4150,2025-03-26
+A,Bandung,1500,2025-03-01
+B,Surabaya,2400,2025-03-03
+C,Jakarta,2200,2025-03-05
+D,Bandung,1700,2025-03-07
+E,Surabaya,2700,2025-03-09
+A,Jakarta,3000,2025-03-11
+B,Bandung,?,2025-03-13
+C,Surabaya,one thousand,2025-03-15
+D,Jakarta,1600,2025-03-17
+E,Bandung,2850,2025-03-19
+A,Surabaya,3150,2025-03-21
+B,Jakarta,NaN,2025-03-22
+C,Bandung,2600,2025-03-24
+D,Surabaya,3350,2025-03-25
+E,Jakarta,4150,2025-03-27
+A,Bandung,1500,2025-03-28
+B,Surabaya,2400,2025-03-29
+C,Jakarta,2200,2025-03-30
+D,Jakarta,NaN,2025-03-31
+E,Bandung,2600,2025-03-04
+A,Surabaya,3400,2025-03-06
+B,Jakarta,invalid,2025-03-08
+C,Bandung,2800,2025-03-10
+D,Surabaya,3500,2025-03-12
+E,Jakarta,4000,2025-03-14
+A,Bandung,1000,2025-03-16
+B,Surabaya,2400,2025-03-18
+C,Jakarta,2200,2025-03-20
+D,Bandung,1700,2025-03-22
+E,Surabaya,2700,2025-03-24
+A,Jakarta,3000,2025-03-26
+B,Bandung,?,2025-03-28
+C,Surabaya,one thousand,2025-03-29
