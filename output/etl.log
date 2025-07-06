@@ -20,3 +20,42 @@
 2025-07-06 15:55:38,339 - INFO - Data saved and index created
 2025-07-06 15:55:38,340 - INFO - Summary query completed
 2025-07-06 15:55:38,345 - INFO - Summary exported to output/sales_summary.csv
+2025-07-06 16:11:14,388 - INFO - Summary query executed
+2025-07-06 16:11:14,395 - INFO - Summary exported to output/monthly_sales_summary.csv
+2025-07-06 16:11:15,028 - INFO - Plot saved to output/sales_per_month.png
+2025-07-06 16:13:47,185 - INFO - Summary query executed
+2025-07-06 16:13:47,193 - INFO - Summary exported to output/monthly_sales_summary.csv
+2025-07-06 16:13:47,415 - INFO - Plot saved to output/sales_per_month.png
+2025-07-06 16:14:22,681 - INFO - Summary query executed
+2025-07-06 16:14:22,689 - INFO - Summary exported to output/monthly_sales_summary.csv
+2025-07-06 16:14:22,930 - INFO - Plot saved to output/sales_per_month.png
+2025-07-06 16:14:43,835 - INFO - Summary query executed
+2025-07-06 16:14:43,842 - INFO - Summary exported to output/monthly_sales_summary.csv
+2025-07-06 16:14:44,061 - INFO - Plot saved to output/sales_per_month.png
+2025-07-06 20:56:25,437 - INFO - Data loaded from files
+2025-07-06 20:56:25,438 - INFO - Sales error (bukan angka): 30
+2025-07-06 20:56:25,439 - INFO - Outlier >1 juta: 0
+2025-07-06 20:56:25,441 - INFO - Cleaning complete
+2025-07-06 20:57:40,822 - INFO - Data loaded from files
+2025-07-06 20:57:40,823 - INFO - Sales error (bukan angka): 30
+2025-07-06 20:57:40,824 - INFO - Outlier >1 juta: 0
+2025-07-06 20:57:40,825 - INFO - Cleaning complete
+2025-07-06 20:57:40,853 - INFO - Data saved to DB + index created
+2025-07-06 20:57:40,855 - INFO - Summary query executed
+2025-07-06 20:57:40,873 - INFO - Summary exported to output/monthly_sales_summary.csv
+2025-07-06 20:57:41,336 - INFO - Plot saved to output/sales_per_month.png
+2025-07-06 20:58:04,912 - INFO - Data loaded from files
+2025-07-06 20:58:04,913 - INFO - Sales error (bukan angka): 30
+2025-07-06 20:58:04,914 - INFO - Outlier >1 juta: 1
+2025-07-06 20:58:04,915 - INFO - Cleaning complete
+2025-07-06 20:58:04,939 - INFO - Data saved to DB + index created
+2025-07-06 20:58:04,940 - INFO - Summary query executed
+2025-07-06 20:58:04,946 - INFO - Summary exported to output/monthly_sales_summary.csv
+2025-07-06 20:58:05,160 - INFO - Plot saved to output/sales_per_month.png
+2025-07-06 21:04:54,114 - INFO - Loaded data from 3 files
+2025-07-06 21:04:54,115 - INFO - Sales conversion: 30 invalid rows removed
+2025-07-06 21:04:54,116 - INFO - Removed 1 outlier rows
+2025-07-06 21:04:54,140 - INFO - Data saved to DB and index created
+2025-07-06 21:04:54,141 - INFO - Queried sales summary (DB)
+2025-07-06 21:04:54,143 - INFO - Exported summary to output/monthly_sales_summary.csv
+2025-07-06 21:04:54,365 - INFO - Plot saved to output/sales_per_month.png
